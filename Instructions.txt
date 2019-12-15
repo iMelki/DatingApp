@@ -1,0 +1,2 @@
+- Open the CMD here (by typing cmd in the address bar)
+- enter 'code .' to open VS CODE from here
